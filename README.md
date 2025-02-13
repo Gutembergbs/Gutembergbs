@@ -1,6 +1,6 @@
 ## Olá meu nome é Gutemberg Brito! 👋
 <a href="https://github.com/Gutembergbs/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gutembergbs&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutembergbs&langs_count=8" />
 </a>
 <a href="https://github.com/Gutembergbs/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gutembergbs&show_icons=true" />
