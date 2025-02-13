@@ -9,6 +9,6 @@
 - ⚡ Curiosidade: Além da tecnologia e da saúde, **minha esposa Thais Rosana** é uma parte fundamental da minha vida! ❤️
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutembergbs&langs_count=8" alt="Top Langs" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutembergbs&layout=compact)
 </p>
 
