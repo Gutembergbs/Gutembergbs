@@ -1,7 +1,7 @@
 <h3 align="left">🚀 Projeto em destaque:</h3>
 
 <p>
-  <a href="https://github.com/Gutembergbs/ultimate-velha"><strong>Ultimate Jogo da Velha</strong></a>
+  <a href="https://gutembergbs.github.io/ultimate-velha/jogo/"><strong>Ultimate Jogo da Velha</strong></a>
   — jogo mobile com modos local, contra IA e online.
 </p>
 
