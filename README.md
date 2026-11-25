@@ -1,4 +1,25 @@
-<h3 align="left">🚀 Projeto em destaque:</h3>
+<p align="center">
+  <a href="https://gutembergbs.github.io/atari-racing/">
+    <img src="assets/retro-road-racer-cover.svg" alt="Retro Road Racer — jogo de corrida arcade" width="100%">
+  </a>
+</p>
+
+<h3 align="left">🚀 Projetos em destaque:</h3>
+
+<p>
+  <a href="https://gutembergbs.github.io/atari-racing/"><strong>Retro Road Racer</strong></a>
+  — jogo de corrida pseudo-3D com curvas, tráfego, cenários dinâmicos e coleta de combustível.
+</p>
+
+<p>
+  <strong>Tecnologias:</strong> HTML5 · CSS3 · JavaScript
+</p>
+
+<p>
+  <a href="https://github.com/Gutembergbs/atari-racing">📦 Ver código</a> ·
+  <a href="https://gutembergbs.github.io/atari-racing/">🏁 Jogar agora</a> ·
+  <a href="https://gutembergbs.github.io/ultimate-velha/">🌐 Portfólio</a>
+</p>
 
 <p>
   <a href="https://gutembergbs.github.io/ultimate-velha/jogo/"><strong>Ultimate Jogo da Velha</strong></a>
