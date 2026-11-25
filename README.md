@@ -7,6 +7,21 @@
 <h3 align="left">🚀 Projetos em destaque:</h3>
 
 <p>
+  <a href="https://github.com/Gutembergbs/adtc-vila-uniao"><strong>ADTC Vila União</strong></a>
+  — aplicativo Flutter para agenda, comunicação e serviços de uma comunidade.
+</p>
+
+<p>
+  <strong>Tecnologias:</strong> Flutter · Dart · Supabase · Firebase
+</p>
+
+<p>
+  <a href="https://github.com/Gutembergbs/adtc-vila-uniao">📦 Ver código</a> ·
+  <a href="https://igreja-flutter.web.app/">📱 Abrir aplicativo</a> ·
+  <a href="https://gutembergbs.github.io/portfolio/">🌐 Portfólio</a>
+</p>
+
+<p>
   <a href="https://gutembergbs.github.io/atari-racing/"><strong>Retro Road Racer</strong></a>
   — jogo de corrida pseudo-3D com curvas, tráfego, cenários dinâmicos e coleta de combustível.
 </p>
@@ -18,7 +33,7 @@
 <p>
   <a href="https://github.com/Gutembergbs/atari-racing">📦 Ver código</a> ·
   <a href="https://gutembergbs.github.io/atari-racing/">🏁 Jogar agora</a> ·
-  <a href="https://gutembergbs.github.io/ultimate-velha/">🌐 Portfólio</a>
+  <a href="https://gutembergbs.github.io/portfolio/">🌐 Portfólio</a>
 </p>
 
 <p>
@@ -32,7 +47,7 @@
 
 <p>
   <a href="https://github.com/Gutembergbs/ultimate-velha">📦 Ver código</a> ·
-  <a href="https://gutembergbs.github.io/ultimate-velha/">🌐 Acessar portfólio</a>
+  <a href="https://gutembergbs.github.io/ultimate-velha/jogo/">🎮 Jogar no navegador</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
